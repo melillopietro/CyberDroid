@@ -37,8 +37,9 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 
 http://bit.ly/cyberDroid
 
-## username and password
+## Account
 
-android|android
+* user: android
+* password: android
 
 ---
