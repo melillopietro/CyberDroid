@@ -33,4 +33,12 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 
 - Email at `melillo.pietro@gmail.com`</a>
 
+## Download
+
+http://bit.ly/cyberDroid
+
+## username and password
+
+android|android
+
 ---
