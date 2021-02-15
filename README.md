@@ -22,7 +22,7 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 ### Crypto:
 * Stegide
 * Hashcat
-* Cyberche
+* Cyberchef
 ---
 
 ## OS based: Linux Debian 10 (Stable)
