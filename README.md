@@ -1,6 +1,6 @@
 # CyberDroid
 
-![Android Malware Analysis ](https://www.tecnoandroid.it/wp-content/uploads/2020/11/malware-700x400.jpg)
+![Android Malware Analysis ](https://dwkujuq9vpuly.cloudfront.net/news/wp-content/uploads/2020/03/Android-main-960x480.jpg)
 
 
 Welcome to CyberDroid VM - a fully customizable, Linux-based security distribution for Android malware analysis.
