@@ -11,7 +11,7 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 ### Static Malware Analysis :
 * Androbugs
 * MARA Framework
-* MobSF`
+* MobSF
 ### Dynamic Malware Analysis : 
 * wireshark
 * Burpsuite
