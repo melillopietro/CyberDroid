@@ -1,6 +1,6 @@
 # CyberDroid
 
-![Hacktools](https://agrariagioiese.it/23422-medium_default/victorinox-spartan-coltellino-multiuso-svizzero-classico-13603.jpg)
+![Hacktools](https://c.dns-shop.ru/thumb/st1/fit/760/600/dee864a2949a926c45b5ada1ff015f7b/q93_ee975761d29a3e72ec8b5f2b5e23e3df7646f1c581a5fa294992ea1abe73268e.jpg)
 
 
 Welcome to CyberDroid VM - a fully customizable, Linux-based security distribution for Android malware analysis.
