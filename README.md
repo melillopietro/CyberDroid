@@ -23,6 +23,10 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 * Stegide
 * Hashcat
 * Cyberchef
+### Emulator:
+* Android Studio
+### Editor:
+* Geany
 ---
 
 ## OS based: Linux Debian 10 (Stable)
