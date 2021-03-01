@@ -6,6 +6,10 @@
 Welcome to CyberDroid VM - a fully customizable, Linux-based security distribution for Android malware analysis.
 
 ---
+
+---
+## Optimized for Virtualbox and VMware Player
+---
 ## Tools
 
 ### Static Malware Analysis :
@@ -33,7 +37,6 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 ---
 
 ## Support
-
 
 - Email at `melillo.pietro@gmail.com`</a>
 
