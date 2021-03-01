@@ -1,6 +1,6 @@
 # CyberDroid
 
-![Hacktools](https://c.dns-shop.ru/thumb/st1/fit/760/600/dee864a2949a926c45b5ada1ff015f7b/q93_ee975761d29a3e72ec8b5f2b5e23e3df7646f1c581a5fa294992ea1abe73268e.jpg)
+![Hacktools](https://dwkujuq9vpuly.cloudfront.net/news/wp-content/uploads/2020/03/Android-main.jpg)
 
 
 Welcome to CyberDroid VM - a fully customizable, Linux-based security distribution for Android malware analysis.
