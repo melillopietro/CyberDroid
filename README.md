@@ -1,4 +1,4 @@
-# CyberDroid (1.2)
+# CyberDroid 
 
 ![Hacktools](https://dwkujuq9vpuly.cloudfront.net/news/wp-content/uploads/2020/03/Android-main.jpg)
 
@@ -29,6 +29,8 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 * Cyberchef
 ### Emulator:
 * Android Studio
+* Virtualbox + EP
+* Genymotion
 ### Editor:
 * Geany
 ---
