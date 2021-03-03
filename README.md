@@ -23,11 +23,12 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 ### Decompiler: 
 * APKtool 
 * Dex2jar
-### Various:
+### Utility:
 * Stegide
 * Hashcat
 * Cyberchef
 * GTKHash
+* Filezilla
 ### Emulator:
 * Android Studio
 * Virtualbox + EP
@@ -52,8 +53,9 @@ http://bit.ly/cyberDroid
 * user: android
 * password: android
 
-## Note
+## troubleshooting
 
-if you are using Virtualbox you must specify at first boot that the distribution is based on debian 64
+### Virtualbox
+if you are using Virtualbox you must specify at first boot that the distribution is based on debian 64. 
 
 ---
