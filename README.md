@@ -23,10 +23,11 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 ### Decompiler: 
 * APKtool 
 * Dex2jar
-### Crypto:
+### Various:
 * Stegide
 * Hashcat
 * Cyberchef
+* GTKHash
 ### Emulator:
 * Android Studio
 * Virtualbox + EP
