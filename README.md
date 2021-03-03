@@ -52,4 +52,8 @@ http://bit.ly/cyberDroid
 * user: android
 * password: android
 
+## Note
+
+if you are using Virtualbox you must specify at first boot that the distribution is based on debian 64
+
 ---
