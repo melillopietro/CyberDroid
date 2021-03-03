@@ -31,7 +31,7 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 * Android Studio
 * Virtualbox + EP
 * Genymotion
-### Editor:
+### Editor/Viewer:
 * Geany
 ---
 
