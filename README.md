@@ -7,6 +7,12 @@
 
 ---
 
+## Table of Contents 
+
+- [Installation](#installation)
+- [Features](#features)
+- [Documentation](#documentation)
+- [Support](##support)
 ---
 ## :white_check_mark: Current Version 1.3.1
 ---
