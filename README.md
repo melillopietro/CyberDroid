@@ -8,7 +8,7 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 ---
 
 ---
-## Optimized for Virtualbox and VMware Player
+## Current Version 1.3.1
 ---
 ## Tools
 
