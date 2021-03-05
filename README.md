@@ -94,6 +94,10 @@ if you are using Virtualbox you must specify at first boot that the distribution
 
 * **VMWare**
 sometimes a black screen appears, in this case it is enough to temporarily deactivate the NIC
+
+* **Download .ova** 
+There may be problems during the download, to remedy it is advisable to use the official Sync application (https://mega.nz/sync), available for the main operating systems.
+
 ---
 ## :green_book:	Releases
 
