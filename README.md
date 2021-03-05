@@ -23,7 +23,7 @@
 ### Decompiler: 
 * APKtool 
 * Dex2jar
-* JD GUI ( 1.3.1 )
+* JD GUI ( available from next release )
 ### Utility:
 * Stegide
 * Hashcat
@@ -58,6 +58,19 @@ https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ
 
 * **Distro:** Linux Debian 10 (Stable) https://www.debian.org/
 * **DE:** Xfce https://www.xfce.org/
+
+---
+## Minimum Requirements
+
+* **Latest OS:** MS Windows, MAC OSX, Linux  
+
+* **CPU:** 1 gigahertz (GHz) or higher processor or SoC
+
+* **RAM:** 4 gigabyte 
+
+* **Hard Disk Space:** 30GB 
+
+* **Screen:** 800 x 600
 
 ---
 
