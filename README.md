@@ -23,6 +23,7 @@
 ### Decompiler: 
 * APKtool 
 * Dex2jar
+* JD GUI
 ### Utility:
 * Stegide
 * Hashcat
