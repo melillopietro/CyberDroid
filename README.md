@@ -119,7 +119,7 @@ sometimes a black screen appears, in this case it is enough to temporarily deact
 ![](https://imagizer.imageshack.com/img923/751/CZnTck.png)
 ![](https://imagizer.imageshack.com/img923/3825/qaXDpy.png)
 ---
-:information_source:  ## Support
+## :information_source: Support 
 
 
 - :email: `melillo.pietro@gmail.com`</a> subject: `CyberDroid Info`
