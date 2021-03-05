@@ -104,6 +104,7 @@ if you are using Virtualbox you must specify at first boot that the distribution
 - 1.0
 - 1.1
 - 1.2
+- 1.3
 - 1.3.1 (Current Version)
 ---
 ## :camera: Screenshot (1.3.1)
