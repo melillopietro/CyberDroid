@@ -58,6 +58,9 @@
 
 
 ---
+## :arrows_counterclockwise: Installation
+
+---
 
 ## :computer: OS Based Information
 
