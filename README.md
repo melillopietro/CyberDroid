@@ -12,8 +12,8 @@
 - [Installation](#installation)
 - [Features](#features)
 - [Documentation](#documentation)
-- [Support](## Support)
-- [Support](# Support)
+- [Support](##Support)
+- [Support](#Support)
 ---
 ## :white_check_mark: Current Version 1.3.1
 ---
