@@ -10,7 +10,7 @@
 ---
 ## Current Version 1.3.1
 ---
-## Tools
+## **Tools**
 
 ### Static Malware Analysis :
 * Androbugs
@@ -23,7 +23,7 @@
 ### Decompiler: 
 * APKtool 
 * Dex2jar
-* JD GUI
+* JD GUI ( 1.3.1 )
 ### Utility:
 * Stegide
 * Hashcat
