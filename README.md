@@ -38,6 +38,7 @@
 ---
 
 ## OS based: Linux Debian 10 (Stable)
+## DE: Xfce
 ---
 
 ## Support
