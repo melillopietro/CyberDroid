@@ -36,10 +36,7 @@
 * Genymotion
 ### Editor/Viewer:
 * Geany
----
 
-## **OS based:** Linux Debian 10 (Stable) https://www.debian.org/
-## **DE:** Xfce https://www.xfce.org/
 ---
 
 ## Support
@@ -51,6 +48,13 @@
 https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ
 
 ---
+# OS Based Information
+
+**Distro:** Linux Debian 10 (Stable) https://www.debian.org/
+**DE:** Xfce https://www.xfce.org/
+
+---
+
 ## Account
 
 **User**
