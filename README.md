@@ -1,4 +1,4 @@
-# :bug: **CyberDroid** 
+# :bug: :japanese_ogre:	**CyberDroid** :microbe: :space_invader:
 
 ![Hacktools](https://dwkujuq9vpuly.cloudfront.net/news/wp-content/uploads/2020/03/Android-main.jpg)
 
