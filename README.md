@@ -56,7 +56,7 @@ https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ
 * **user**: android
 * **password**: android
 
-**Admnin**
+**Administrator**
 
 * **user**: root
 * **password**: toor
