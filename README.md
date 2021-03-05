@@ -36,6 +36,7 @@
 * Genymotion
 ### Editor/Viewer:
 * Geany
+* Atom
 
 ---
 
