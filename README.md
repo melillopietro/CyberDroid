@@ -97,6 +97,7 @@ if you are using Virtualbox you must specify at first boot that the distribution
 ---
 ## :camera: Screenshot (1.3.1)
 
+**Menù**
 
 ![](https://imagizer.imageshack.com/img924/9579/0DKXgK.png)
 ![](https://imagizer.imageshack.com/img922/9035/MP92cG.png)
