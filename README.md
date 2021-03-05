@@ -94,10 +94,10 @@
 ## :warning: Troubleshooting
 
 * **Virtualbox**
-if you are using Virtualbox you must specify at first boot that the distribution is based on debian 64. 
+if you are using Virtualbox you must specify at first boot that the distribution is based on **debian-64**. 
 
 * **VMWare**
-
+sometimes a black screen appears, in this case it is enough to temporarily deactivate the NIC
 ---
 ## :green_book:	Releases
 
