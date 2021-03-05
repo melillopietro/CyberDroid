@@ -42,9 +42,10 @@
 
 ## :arrow_down: Download
 
-***the latest version of CyberDroid is available***
+***the latest version of CyberDroid is available*** [CyberDroid][https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ].
 
-https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ
+
+
 
 ### Hash List
 
