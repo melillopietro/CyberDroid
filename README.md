@@ -8,7 +8,7 @@
 ---
 
 ---
-## Current Version 1.3.1
+## :white_check_mark: Current Version 1.3.1
 ---
 ## :wrench: **Tools**
 
