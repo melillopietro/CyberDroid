@@ -9,6 +9,14 @@
 
 ---
 ## :white_check_mark: Current Version 1.3.1
+**Changelog:**
+* Added:GTKHash,VirtualBox,Genymotion, AndroidStudio
+* Changed:Theme
+* Deprecated: none
+* Removed: none
+* Fixed: none
+* Security: none
+
 ---
 ## :wrench: **Tools**
 
