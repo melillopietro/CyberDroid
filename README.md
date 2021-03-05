@@ -46,6 +46,10 @@
 * Geany
 * Atom ( available from next release )
 
+### other kit tools installed
+* Python 2.7.x
+* Open JDK 11.x
+
 ---
 
 ## :arrow_down: Download
