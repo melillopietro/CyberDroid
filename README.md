@@ -48,11 +48,18 @@ Welcome to CyberDroid VM - a fully customizable, Linux-based security distributi
 
 https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ
 
+---
 ## Account
+
+**User**
 
 * **user**: android
 * **password**: android
 
+**Admnin**
+
+* **user**: root
+* **password**: toor
 ---
 ## Troubleshooting
 
