@@ -38,8 +38,8 @@
 * Geany
 ---
 
-## OS based: Linux Debian 10 (Stable) https://www.debian.org/
-## DE: Xfce https://www.xfce.org/
+## **OS based:** Linux Debian 10 (Stable) https://www.debian.org/
+## **DE:** Xfce https://www.xfce.org/
 ---
 
 ## Support
