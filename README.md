@@ -40,7 +40,7 @@
 
 ---
 
-## Download
+## :arrow_down: Download
 
 https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ
 
@@ -55,13 +55,13 @@ https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ
 
 ---
 
-## OS Based Information
+## :computer: OS Based Information
 
 * **Distro:** Linux Debian 10 (Stable) https://www.debian.org/
 * **DE:** Xfce https://www.xfce.org/
 
 ---
-## Minimum Requirements
+## :open_file_folder: Minimum Requirements
 
 * **Latest OS:** MS Windows, MAC OSX, Linux  
 
@@ -75,7 +75,7 @@ https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ
 
 ---
 
-## Account
+## :busts_in_silhouette: Account
 
 **User**
 
@@ -87,7 +87,7 @@ https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ
 * **user**: `root`
 * **password**: `toor`
 ---
-## Troubleshooting
+## :warning: Troubleshooting
 
 * **Virtualbox**
 if you are using Virtualbox you must specify at first boot that the distribution is based on debian 64. 
@@ -95,7 +95,7 @@ if you are using Virtualbox you must specify at first boot that the distribution
 * **VMWare**
 
 ---
-## Screenshot (1.3.1)
+## :camera: Screenshot (1.3.1)
 
 
 ![](https://imagizer.imageshack.com/img924/9579/0DKXgK.png)
@@ -104,9 +104,9 @@ if you are using Virtualbox you must specify at first boot that the distribution
 ![](https://imagizer.imageshack.com/img923/3825/qaXDpy.png)
 ---
 
-## Support
+## :information_source: Support
 
-- :email: `melillo.pietro@gmail.com`</a>
+- :email: `melillo.pietro@gmail.com`</a> subject: `CyberDroid Info`
 - :bird: https://twitter.com/melillopietro
 
 ---
