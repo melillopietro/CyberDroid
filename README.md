@@ -95,6 +95,14 @@ if you are using Virtualbox you must specify at first boot that the distribution
 * **VMWare**
 
 ---
+## Screenshot (1.3.1)
+
+
+![](https://imagizer.imageshack.com/img924/9579/0DKXgK.png)
+![](https://imagizer.imageshack.com/img922/9035/MP92cG.png)
+![](https://imagizer.imageshack.com/img923/751/CZnTck.png)
+![](https://imagizer.imageshack.com/img923/3825/qaXDpy.png)
+---
 
 ## Support
 
