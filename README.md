@@ -78,8 +78,8 @@ https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ
 ## Account
 
 **User**
-`
-* **user**: android`
+
+* **user**: `android`
 * **password**: `android`
 
 **Administrator**
