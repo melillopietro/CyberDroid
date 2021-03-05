@@ -53,10 +53,13 @@ https://mega.nz/folder/AB0mTRwK#Ims5P09EGgQ7X6Tgk_52XQ
 * user: android
 * password: android
 
-## troubleshooting
+---
+## Troubleshooting
 
-### Virtualbox
+**Virtualbox**
 if you are using Virtualbox you must specify at first boot that the distribution is based on debian 64. 
+
+**VMWare **
 
 ---
 
