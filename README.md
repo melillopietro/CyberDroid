@@ -68,13 +68,9 @@
 ## :open_file_folder: Minimum Requirements
 
 * **Latest OS:** MS Windows, MAC OSX, Linux  
-
 * **CPU:** 1 gigahertz (GHz) or higher processor or SoC
-
 * **RAM:** 4 gigabyte 
-
 * **Hard Disk Space:** 30GB 
-
 * **Screen:** 800 x 600
 
 ---
