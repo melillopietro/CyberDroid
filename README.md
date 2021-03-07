@@ -8,7 +8,17 @@
 ---
 
 ---
-## :white_check_mark: Current Version 1.3.1
+## :white_check_mark: Current Version 1.4
+**Changelog:**
+* **Added:** Atom
+* **Changed:** reduction in the size of the distribution by approximately 50%
+* **Deprecated:** none
+* **Removed:** Android Studio, Geany
+* **Fixed:** risolto un problema relativo all'avvio dell'emulatore Genymotion
+* **Security:** updates and patches
+
+
+## :red_circle: Old Version 1.3.1
 **Changelog:**
 * **Added:** GTKHash,VirtualBox,Genymotion, AndroidStudio
 * **Changed:** Theme
