@@ -118,9 +118,9 @@ if you are using Virtualbox you must specify at first boot that the distribution
 sometimes a black screen appears, in this case it is enough to temporarily deactivate the NIC
 
 * **Emulator**
-to use the emulators it is mandatory to activate in the VM processor setting:
- * for **VMWARE** https://communities.vmware.com/t5/VMware-Workstation-Pro/Virtualization-Engine-in-VM-Settings/td-p/482653
- * for **VirtualBox** https://forums.virtualbox.org/viewtopic.php?f=1&t=90831
+to use the emulators (v. 1.3.1) it is mandatory to activate in the VM processor setting:
+VMWARE https://communities.vmware.com/t5/VMware-Workstation-Pro/Virtualization-Engine-in-VM-Settings/td-p/482653
+VirtualBox** https://forums.virtualbox.org/viewtopic.php?f=1&t=90831
 
 * **Download .ova** 
 There may be problems during the download, to remedy it is advisable to use the official Sync application (https://mega.nz/sync), available for the main operating systems.
