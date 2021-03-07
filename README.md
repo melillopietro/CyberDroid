@@ -8,7 +8,7 @@
 ---
 
 ---
-## :white_check_mark: Current Version 1.4
+## :white_check_mark: Current Version 1.4 (available from 10 March 2021)
 **Changelog:**
 * **Added:** Atom
 * **Changed:** reduction in the size of the distribution by approximately 50%
