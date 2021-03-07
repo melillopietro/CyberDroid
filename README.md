@@ -35,7 +35,7 @@
 * MARA Framework
 * MobSF
 ### Dynamic Malware Analysis : 
-* wireshark
+* Wireshark
 * Burpsuite
 * ADB
 ### Decompiler: 
