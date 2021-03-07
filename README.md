@@ -119,8 +119,8 @@ sometimes a black screen appears, in this case it is enough to temporarily deact
 
 * **Emulator**
 to use the emulators it is mandatory to activate in the VM processor setting:
- for VMWARE https://communities.vmware.com/t5/VMware-Workstation-Pro/Virtualization-Engine-in-VM-Settings/td-p/482653
- for VirtualBox https://forums.virtualbox.org/viewtopic.php?f=1&t=90831
+ * for **VMWARE** https://communities.vmware.com/t5/VMware-Workstation-Pro/Virtualization-Engine-in-VM-Settings/td-p/482653
+ * for **VirtualBox** https://forums.virtualbox.org/viewtopic.php?f=1&t=90831
 
 * **Download .ova** 
 There may be problems during the download, to remedy it is advisable to use the official Sync application (https://mega.nz/sync), available for the main operating systems.
