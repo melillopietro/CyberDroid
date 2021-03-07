@@ -133,7 +133,7 @@ if you are using Virtualbox you must specify at first boot that the distribution
 * **VMWare**
 sometimes a black screen appears, in this case it is enough to temporarily deactivate the NIC
 
-* **Emulator**
+* **Genymotion**
 to use the emulators (v. 1.3.1) it is mandatory to activate in the VM processor setting:
 
   VMWARE https://communities.vmware.com/t5/VMware-Workstation-Pro/Virtualization-Engine-in-VM-Settings/td-p/482653
