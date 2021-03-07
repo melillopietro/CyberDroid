@@ -150,6 +150,7 @@ There may be problems during the download, to remedy it is advisable to use the 
 - 1.2
 - 1.3
 - 1.3.1 (Current Version)
+- 1.4 (Next Release)
 ---
 ## :camera: Screenshot (1.3.1)
 
