@@ -110,7 +110,7 @@ the official procedures of the two virtualization environments are available at 
 * **password**: `toor`
 ---
 ## :flags: Keyboard Layout
-* **default:** :it: `ita`
+* **default:** :it:
 * obviously it is possible to change it
 
 ---
