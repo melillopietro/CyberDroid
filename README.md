@@ -109,6 +109,9 @@ the official procedures of the two virtualization environments are available at 
 * **user**: `root`
 * **password**: `toor`
 ---
+## :flags: Keyboard Layout
+* **default:** `ita`
+---
 ## :warning: Troubleshooting
 
 * **Virtualbox**
