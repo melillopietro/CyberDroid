@@ -145,6 +145,12 @@ There may be problems during the download, to remedy it is advisable to use the 
  - [x] Removed: none
  - [x] Fixed: none
  - [x] Security: none
+ *Hash List:*
+ - [x] Filename:`CyberDroid 1.3.1.ova`
+ - [x] MD5:`1d016f296f2f430e7221caa09d266353	`
+ - [x] SHA1:`82a668c323e1bb2edaba95a4a0cb160f2900f895`
+ - [x] CRC32:`0c031038`
+ - [x] SHA-256:`432bc030ee70010840a7bd61f12f34edece2fb4324380c8d983cf396a9fbbd9b`
 
 
 - ## **1.4**  (Next Release)
