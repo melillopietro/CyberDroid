@@ -28,12 +28,13 @@
 * MobSF
 ### Dynamic Malware Analysis : 
 * Wireshark
+* Frida (version 1.5)
 * Burpsuite
 * ADB
 ### Decompiler: 
 * APKtool 
 * Dex2jar
-* JD GUI ( available from next release )
+* JD GUI 
 ### Utility:
 * Stegide
 * Hashcat
@@ -41,11 +42,9 @@
 * GTKHash
 * Filezilla
 ### Emulator:
-* Android Studio
 * Virtualbox + EP
 * Genymotion
 ### Editor/Viewer:
-* Geany
 * Atom ( available from next release )
 
 ### other kit tools installed
