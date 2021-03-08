@@ -15,7 +15,7 @@
 * **Changed:** reduction in the size of the distribution by approximately 50%
 * **Deprecated:** none
 * **Removed:** Android Studio, Geany
-* **Fixed:** risolto un problema relativo all'avvio dell'emulatore Genymotion
+* **Fixed:** fix of an issue related to the incorrect start of the emulators
 * **Security:** updates and patches
 
 
