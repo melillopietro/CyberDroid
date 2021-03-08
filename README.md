@@ -20,7 +20,6 @@
 
 
 ---
----
 ## :wrench: **Tools**
 
 ### Static Malware Analysis :
@@ -149,7 +148,7 @@ There may be problems during the download, to remedy it is advisable to use the 
 
 
 - ## **1.4**  (Next Release)
-- *Changelog:*
+*Changelog:*
  - [x] Added: Atom
  - [x] Changed:reduction in the size of the distribution by approximately 50%
  - [x] Deprecated: none
