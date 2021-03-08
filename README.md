@@ -165,7 +165,7 @@ There may be problems during the download, to remedy it is advisable to use the 
  - [x] Security: updates and patches 
 
 *Hash List:*
- - [x] Filename:` `
+ - [x] Filename:`CyberDroid 1.4.ova `
  - [x] MD5:`f3b711abc588b979198ab724264ff8f3`
  - [x] SHA1:`f3e14f36b2a5c335d6266c8c41fbf6ba9f85a1fd`
  - [x] CRC32:`c5d2309b`
