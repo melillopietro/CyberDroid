@@ -149,12 +149,13 @@ There may be problems during the download, to remedy it is advisable to use the 
 
 
 - ## **1.4**  (Next Release)
- - [x] Added: GTKHash,VirtualBox,Genymotion, AndroidStudio
- - [x] Changed:Theme
+- *Changelog:*
+ - [x] Added: Atom
+ - [x] Changed:reduction in the size of the distribution by approximately 50%
  - [x] Deprecated: none
- - [x] Removed: none
- - [x] Fixed: none
- - [x] Security: none 
+ - [x] Removed: Android Studio, Geany
+ - [x] Fixed: fix of an issue related to the incorrect start of the emulators
+ - [x] Security: updates and patches 
 ---
 ## :camera: Screenshot (1.3.1)
 
