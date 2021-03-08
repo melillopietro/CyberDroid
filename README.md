@@ -65,10 +65,10 @@
 ### Hash List
 
 * **Filename**	` `
-* **MD5**	`	`
-* **SHA1**	` `
-* **CRC32**	` `
-* **SHA-256**	` `
+* **MD5**	`f3b711abc588b979198ab724264ff8f3`
+* **SHA1**	`f3e14f36b2a5c335d6266c8c41fbf6ba9f85a1fd`
+* **CRC32**	`c5d2309b`
+* **SHA-256**	`34bb49abe295a634c96cbae0764cc25ba45b257a3395583f4f888a6ee37da2a4`
 
 
 ---
@@ -166,10 +166,10 @@ There may be problems during the download, to remedy it is advisable to use the 
 
 *Hash List:*
  - [x] Filename:` `
- - [x] MD5:`	`
- - [x] SHA1:` `
- - [x] CRC32:` `
- - [x] SHA-256:` `
+ - [x] MD5:`f3b711abc588b979198ab724264ff8f3`
+ - [x] SHA1:`f3e14f36b2a5c335d6266c8c41fbf6ba9f85a1fd`
+ - [x] CRC32:`c5d2309b`
+ - [x] SHA-256:`34bb49abe295a634c96cbae0764cc25ba45b257a3395583f4f888a6ee37da2a4`
 
 ---
 ## :camera: Screenshot (1.3.1)
