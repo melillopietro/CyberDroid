@@ -138,6 +138,7 @@ There may be problems during the download, to remedy it is advisable to use the 
 ## :green_book:	Releases
 
 * ### **1.3.1** 
+
 *Changelog:*
  - [x] Added: GTKHash,VirtualBox,Genymotion, AndroidStudio
  - [x] Changed:Theme
@@ -145,6 +146,7 @@ There may be problems during the download, to remedy it is advisable to use the 
  - [x] Removed: none
  - [x] Fixed: none
  - [x] Security: none
+ 
  *Hash List:*
  - [x] Filename:`CyberDroid 1.3.1.ova`
  - [x] MD5:`1d016f296f2f430e7221caa09d266353	`
