@@ -140,13 +140,21 @@ There may be problems during the download, to remedy it is advisable to use the 
 
 * ### **1.3.1** 
 *Changelog:*
- * Added: GTKHash,VirtualBox,Genymotion, AndroidStudio
- * Changed:Theme
- * Deprecated: none
- * Removed: none
- * Fixed: none
- * Security: none
-- 1.4 (Next Release)
+ - [x] Added: GTKHash,VirtualBox,Genymotion, AndroidStudio
+ - [x] Changed:Theme
+ - [x] Deprecated: none
+ - [x] Removed: none
+ - [x] Fixed: none
+ - [x] Security: none
+
+
+- ## **1.4**  (Next Release)
+ - [x] Added: GTKHash,VirtualBox,Genymotion, AndroidStudio
+ - [x] Changed:Theme
+ - [x] Deprecated: none
+ - [x] Removed: none
+ - [x] Fixed: none
+ - [x] Security: none 
 ---
 ## :camera: Screenshot (1.3.1)
 
