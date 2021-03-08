@@ -137,6 +137,23 @@ There may be problems during the download, to remedy it is advisable to use the 
 ---
 ## :green_book:	Releases
 
+- ## **1.4**  (Next Release)
+*Changelog:*
+ - [x] Added: Atom
+ - [x] Changed:reduction in the size of the distribution by approximately 50%
+ - [x] Deprecated: none
+ - [x] Removed: Android Studio, Geany
+ - [x] Fixed: fix of an issue related to the incorrect start of the emulators
+ - [x] Security: updates and patches 
+
+*Hash List:*
+ - [x] Filename:`CyberDroid 1.4.ova `
+ - [x] MD5:`f3b711abc588b979198ab724264ff8f3`
+ - [x] SHA1:`f3e14f36b2a5c335d6266c8c41fbf6ba9f85a1fd`
+ - [x] CRC32:`c5d2309b`
+ - [x] SHA-256:`34bb49abe295a634c96cbae0764cc25ba45b257a3395583f4f888a6ee37da2a4`
+
+
 * ### **1.3.1** 
 
 *Changelog:*
@@ -154,22 +171,6 @@ There may be problems during the download, to remedy it is advisable to use the 
  - [x] CRC32:`0c031038`
  - [x] SHA-256:`432bc030ee70010840a7bd61f12f34edece2fb4324380c8d983cf396a9fbbd9b`
 
-
-- ## **1.4**  (Next Release)
-*Changelog:*
- - [x] Added: Atom
- - [x] Changed:reduction in the size of the distribution by approximately 50%
- - [x] Deprecated: none
- - [x] Removed: Android Studio, Geany
- - [x] Fixed: fix of an issue related to the incorrect start of the emulators
- - [x] Security: updates and patches 
-
-*Hash List:*
- - [x] Filename:`CyberDroid 1.4.ova `
- - [x] MD5:`f3b711abc588b979198ab724264ff8f3`
- - [x] SHA1:`f3e14f36b2a5c335d6266c8c41fbf6ba9f85a1fd`
- - [x] CRC32:`c5d2309b`
- - [x] SHA-256:`34bb49abe295a634c96cbae0764cc25ba45b257a3395583f4f888a6ee37da2a4`
 
 ---
 ## :camera: Screenshot (1.3.1)
