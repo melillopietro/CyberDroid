@@ -28,7 +28,7 @@
 * MobSF
 ### Dynamic Malware Analysis : 
 * Wireshark
-* Frida (version 1.5)
+* Frida (aivaible from version 1.5)
 * Burpsuite
 * ADB
 ### Decompiler: 
