@@ -9,7 +9,7 @@
 ---
 
 ---
-## :white_check_mark: Current Version 1.4 (available from 10 March 2021)
+## :white_check_mark: Current Version 1.4 
 **Changelog:**
 * **Added:** Atom
 * **Changed:** reduction in the size of the distribution by approximately 50%
@@ -136,7 +136,7 @@ There may be problems during the download, to remedy it is advisable to use the 
 ---
 ## :green_book:	Releases
 
-- ## **1.4**  (Next Release)
+- ## **1.4**  
 *Changelog:*
  - [x] Added: Atom
  - [x] Changed:reduction in the size of the distribution by approximately 50%
