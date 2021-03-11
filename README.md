@@ -35,6 +35,8 @@
 * APKtool 
 * Dex2jar
 * JD GUI 
+### Disassembler: 
+* Ida 64
 ### Utility:
 * Stegide
 * Hashcat
