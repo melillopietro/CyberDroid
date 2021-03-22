@@ -47,7 +47,7 @@
 * Virtualbox + EP
 * Genymotion
 ### Editor/Viewer:
-* Atom ( available from next release )
+* Atom
 
 ### other kit tools installed
 * Python 2.7.x
