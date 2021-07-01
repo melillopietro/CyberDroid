@@ -75,7 +75,7 @@ CyberDroid : Realization of an environment for Analyzing Android Apps
 
 ---
 
-## :arrows_counterclockwise: Intallation
+## :arrows_counterclockwise: Installation
 
 The installation of the VM (.ova) is very simple and practical. An OVA file is a virtual appliance used by virtualization applications such as VMware Workstation and Oracle VM Virtualbox. It is a package that contains the files used to describe a virtual machine, which includes an .OVF descriptor file, manifest (.MF) and certificates and other related files.
 
